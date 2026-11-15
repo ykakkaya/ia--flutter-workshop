@@ -1,5 +1,15 @@
 # Flutter Workshop: Backend + Mobil
 
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/Riverpod-00B4D8" alt="Riverpod"/>
+  <img src="https://img.shields.io/badge/Laravel_13-FF2D20?logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/PHP_8.3-777BB4?logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Sanctum-auth-FF2D20" alt="Sanctum"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" alt="SQLite"/>
+</p>
+
 **Düzenleyen:** İstanbul Aydın Üniversitesi
 **Tarih:** 28 Ekim 2026
 
