@@ -11,3 +11,23 @@ Bu depo, İstanbul Aydın Üniversitesi'nde düzenlenen Flutter workshop'unda ge
 | --- | --- |
 | [`todo/`](todo) | Laravel 13 + Sanctum ile yazılmış Todo REST API'si (backend) |
 | [`ftodo/`](ftodo) | Bu API'yi kullanan Flutter mobil uygulaması |
+
+## Hızlı başlangıç
+
+**Backend**
+
+```bash
+cd todo
+composer run setup
+composer run dev
+```
+
+**Mobil uygulama**
+
+```bash
+cd ftodo
+flutter pub get
+flutter run
+```
+
+Mobil uygulama varsayılan olarak yayındaki API'ye bağlanır. Yerel backend'i kullanmak için `ftodo/lib/core/constants.dart` içindeki `apiBaseUrl` değerini değiştirin.
