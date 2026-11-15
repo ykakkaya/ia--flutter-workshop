@@ -31,3 +31,8 @@ flutter run
 ```
 
 Mobil uygulama varsayılan olarak yayındaki API'ye bağlanır. Yerel backend'i kullanmak için `ftodo/lib/core/constants.dart` içindeki `apiBaseUrl` değerini değiştirin.
+
+## API dokümantasyonu
+
+- [todo/docs/API.md](todo/docs/API.md): uç noktalar, istek/yanıt örnekleri ve hata kodları
+- [todo/docs/openapi.json](todo/docs/openapi.json): OpenAPI 3.0 şeması
